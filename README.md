@@ -1,2 +1,2 @@
 # codingbat
-Contains my solutions to CodingBat questions
+Contains my solutions to CodingBat Java questions.
